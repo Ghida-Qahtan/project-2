@@ -1,52 +1,55 @@
 # Project 2 Groups - Kaggle Challenges with Titanic Survival (Classification) and House Prices (Regression)
 
 ## Group 1
-Ghalib Tawfiq
-Rawan Almalki
-rayan raad
-_____________________________________
+1. Ghalib Tawfiq
+2. Rawan Almalki
+3. rayan raad
+
 ## Group 2
-sarah mohammed Aljudaibi
-naif alfouzan
-Ahmed Allam
-_____________________________________
+1. sarah mohammed Aljudaibi
+2. naif alfouzan
+3. Ahmed Allam
+
 ## Group 3
-Saad alsharif
-Mohammed saud
-howida saeed
-_____________________________________
+1. Saad alsharif
+2. Mohammed saud
+3. howida saeed
+
 ## Group 4
-Najwa Sayyaf alharbi
-Ahmed Tawfiq
-khwla alsafri
-_____________________________________
+1. Najwa Sayyaf alharbi
+2. Ahmed Tawfiq
+3. khwla alsafri
+
 ## Group 5
-Raghad Alharbi
-Fatimah Aljohani
-Hessah Hamed Alkhattabi
-_____________________________________
+1. Raghad Alharbi
+2. Fatimah Aljohani
+3. Hessah Hamed Alkhattabi
+
 ## Group 6
-Salwa Alzahrani
-Norah AlSharif
-Salman Faried Almaiman
-_____________________________________
+1. Salwa Alzahrani
+2. Norah AlSharif
+3. Salman Faried Almaiman
+
 ## Group 7
-Hanin Almarshad
-Reem Alghamdi
-wafa ali alshehri
-_____________________________________
+1. Hanin Almarshad
+2. Reem Alghamdi
+3. wafa ali alshehri
+
+
 ## Group 8
-Abdulrahman ALQannas
-ghida qahtan
-Doaa Alsenani
-Moayad Magadmi
-_____________________________________
+1. Abdulrahman ALQannas
+2. ghida qahtan
+3. Doaa Alsenani
+4. Moayad Magadmi
+
+
 ## Group 9
-Ahmad Fatani
-Abdulelah Alkesaiberi
-Ibrahim Aljadani
-_____________________________________
+1. Ahmad Fatani
+2. Abdulelah Alkesaiberi
+3. Ibrahim Aljadani
+
+
 ## Group 10
-Turki Bader A Baghlaf
-Yazeed Albazli
-Rayan Edrees
+1. Turki Bader A Baghlaf
+2. Yazeed Albazli
+3. Rayan Edrees
